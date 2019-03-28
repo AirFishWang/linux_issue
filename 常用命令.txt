@@ -1,0 +1,9 @@
+1. scp http://www.runoob.com/linux/linux-comm-scp.html
+   scp local_file remote_username@remote_ip:remote_folder 
+
+2. find  参考地址：https://jingyan.baidu.com/article/636f38bb6e0bdad6b846103e.html 
+   find dir -name filename
+   
+3. ps -xu    ps -axu  查看进程以及开启进程的对应命令   
+
+4. df -Th   查看磁盘空间
