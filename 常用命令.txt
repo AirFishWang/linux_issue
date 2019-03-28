@@ -1,9 +1,11 @@
 1. scp http://www.runoob.com/linux/linux-comm-scp.html
    scp local_file remote_username@remote_ip:remote_folder 
 
-2. find  ²Î¿¼µØÖ·£ºhttps://jingyan.baidu.com/article/636f38bb6e0bdad6b846103e.html 
+2. find  å‚è€ƒåœ°å€ï¼šhttps://jingyan.baidu.com/article/636f38bb6e0bdad6b846103e.html 
    find dir -name filename
    
-3. ps -xu    ps -axu  ²é¿´½ø³ÌÒÔ¼°¿ªÆô½ø³ÌµÄ¶ÔÓ¦ÃüÁî   
+3. ps -xu    ps -axu  æŸ¥çœ‹è¿›ç¨‹ä»¥åŠå¼€å¯è¿›ç¨‹çš„å¯¹åº”å‘½ä»¤   
 
-4. df -Th   ²é¿´´ÅÅÌ¿Õ¼ä
+4. df -Th   æŸ¥çœ‹ç£ç›˜ç©ºé—´
+
+5. cpå‘½ä»¤å¯ä»¥ä½¿ç”¨-vå‚æ•° æ˜¾ç¤ºå½“å‰å¤åˆ¶çš„è¿›åº¦
